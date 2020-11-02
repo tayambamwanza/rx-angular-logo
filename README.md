@@ -6,3 +6,5 @@ Font: Futura
 Main Color: #d81b60ff
 Darker Shade: #a91b49ff
 ```
+
+![PWA icons](./rx-angular-logo-concepts.png)
