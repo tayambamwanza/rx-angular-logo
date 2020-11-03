@@ -8,6 +8,11 @@ Darker Pink: #a91b49ff
 ```
 
 ```css
+Main Black: #000000ff
+Lighter Black: #232323ff
+```
+
+```css
 Main Red: #dd0031ff
 Darker Red: #c3002fff
 ```
